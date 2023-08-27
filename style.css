@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.edit{
+    background: #474bff;
+background: -webkit-linear-gradient(114deg, #474bff 0%, #bc48ff 100%);
+background: linear-gradient(114deg, #474bff 0%, #bc48ff 100%);
+}
